@@ -24,3 +24,5 @@ App.js-- App component called in index component,I Used two components for view 
 BooksAPI.js-- Provides API calling functionalities
 index.js-- Uses App and renders it to root. Used BrowserRouter inorder to start routing
 
+updated dependencies
+
